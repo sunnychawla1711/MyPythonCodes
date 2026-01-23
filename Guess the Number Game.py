@@ -15,4 +15,4 @@ while att < 3:
         print("Guess a larger number: ")
             
 if att == 3 :
-    print("You have loss the game: ")
+    print("You have loss the game and the number was: ", SN)
